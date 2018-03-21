@@ -1,0 +1,8 @@
+{
+  "name": "apex_demo",
+  "description": "apex demo",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::145730600297:role/apex_demo_lambda_function",
+  "environment": {}
+}
